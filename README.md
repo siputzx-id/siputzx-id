@@ -1,105 +1,91 @@
-# Hi there, I'm Siputzx 👨‍💻 
+# Siputzx 👨‍💻
 
-## 🌐 About Me
+## 🌐 Digital Identity
 
-<div align="center">
-  <img src="https://github.com/siputzx-id.png" width="250" style="border-radius: 50%;">
-  
-  **17 Years Old | 🇮🇩 Indonesian Developer | AI & Web Enthusiast**
-</div>
+**Full Name:** Siputzx
+**Age:** 17 Years Old
+**Nationality:** 🇮🇩 Indonesian
+**Location:** Tulang Bawang, Lampung, Indonesia
 
-## 🚀 Quick Stats
+## 🚀 Professional Snapshot
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=siputzx-id&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</div>
+### Contact Channels
+- **GitHub:** [siputzx-id](https://github.com/siputzx-id)
+- **Telegram:** [@siputzx](https://t.me/siputzx)
+- **Email:** [siputzx.id@gmail.com](mailto:siputzx.id@gmail.com)
+- **WhatsApp Business:** [+62 856-5893-9117](https://wa.me/6285658939117)
+- **Personal Website:** [siputzx.my.id](https://siputzx.my.id)
+- **API Platform:** [api.siputzx.my.id](https://api.siputzx.my.id)
 
-## 💻 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Termux](https://img.shields.io/badge/-Termux-black?style=flat-square&logo=linux)
-![Replit](https://img.shields.io/badge/-Replit-black?style=flat-square&logo=replit)
-
-## 🤖 AI & Development Ecosystem
+## 🤖 AI Ecosystem & Expertise
 
 ### AI Tools Mastery
-![Claude AI](https://img.shields.io/badge/-Claude%20AI-black?style=flat-square&logo=anthropic)
-![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-black?style=flat-square&logo=google)
-![Telegram Bots](https://img.shields.io/badge/-Telegram%20Bots-black?style=flat-square&logo=telegram)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Perplexity AI](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-258FEA?style=for-the-badge&logo=microsoft&logoColor=white)
+![Blackbox AI](https://img.shields.io/badge/Blackbox%20AI-000000?style=for-the-badge&logo=ai&logoColor=white)
 
-## 📊 GitHub Analytics
+### AI Interaction Specialties
+- 🧠 Prompt Engineering
+- 💻 Code Generation & Optimization
+- 📝 Content Creation
+- 🔍 Research & Analysis
+- 🤝 Collaborative Problem Solving
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siputzx-id&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siputzx-id&layout=compact&theme=radical"/>
-</div>
+## 💻 Tech Arsenal
 
-### 🔥 Contribution Streak
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siputzx-id&theme=radical"/>
-</div>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🏆 GitHub Trophies
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siputzx-id&theme=radical&column=7"/>
-</div>
+### Development Tools
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-## 🚀 Project Highlights
+## 🎯 Professional Interests
+- AI-Powered Development
+- Web Technologies
+- Machine Learning
+- Open Source Contribution
+- Innovative Problem Solving
 
-### 🤖 Telegram Bot Development
-- 💬 Advanced Telegram Bot Creators
-- 🔧 Custom API Integrations
-- 📡 Automated Response Systems
+## 🏆 GitHub Stats
+![Siputzx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siputzx-id&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siputzx-id&layout=compact&theme=radical)
 
-### 💻 Web Development
-- 🌐 Full-Stack Web Applications
-- 🚀 Modern JavaScript Frameworks
-- 🔍 Responsive Design Expertise
+## 🌱 Current Learning Path
+- Advanced AI Integration
+- Prompt Engineering Techniques
+- Cutting-Edge Web Technologies
+- AI-Driven Development Strategies
 
-### 🧠 AI & Automation
-- 🤖 AI-Powered Script Development
-- 🔬 Intelligent Automation Solutions
-- 📊 Data Processing Scripts
+## 🔍 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=siputzx-id&color=blueviolet)
 
-## 💡 Current Focus
+## 💡 Tech Philosophy
+> "AI is not just a tool, it's a collaborative partner in innovation."
+> - Embrace continuous learning
+> - Push technological boundaries
+> - Create intelligent, adaptive solutions
 
-- 🚀 Advanced AI Integration Techniques
-- 💻 Next-Gen Web Technologies
-- 🤖 Intelligent Automation Development
-- 🌐 Open Source Contributions
-
-## 🌍 Reach Me
-
-<div align="center">
-  <a href="https://t.me/siputzx"><img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram"/></a>
-  <a href="https://wa.me/6285658939117"><img src="https://img.shields.io/badge/-WhatsApp-black?style=flat-square&logo=whatsapp"/></a>
-  <a href="mailto:siputzx.id@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail"/></a>
-  <a href="https://github.com/siputzx-id"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
-</div>
-
-## 💬 About Me
-
-> "Coding is not just writing lines, it's about creating solutions that make a difference."
+## 🤝 Let's Connect!
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siputzx)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285658939117)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siputzx.id@gmail.com)
 
 ---
 
-**🕒 Last Updated:** December 2024
+**Last Updated:** December 2024
+
+jangan hapus yang sudah ada, tambahkan stats github yang lengkap buat full code tampilan modern dan minimalis
