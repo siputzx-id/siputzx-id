@@ -87,5 +87,3 @@
 ---
 
 **Last Updated:** December 2024
-
-jangan hapus yang sudah ada, tambahkan stats github yang lengkap buat full code tampilan modern dan minimalis
